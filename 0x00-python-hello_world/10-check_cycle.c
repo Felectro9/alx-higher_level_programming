@@ -1,7 +1,8 @@
 #include "lists.h"
 
 /**
- * check cycle - checks if a list a cycle
+ * check cycle - checks if a list has
+ * a cycle
  * @list: pointer in list
  * Return: 0 if there is no cycle
  * 1 if there is cycle
